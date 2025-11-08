@@ -1,0 +1,109 @@
+
+export const siteConfig = {
+  name: "Nallamothu Bhanu Teja | Portfolio",
+  url: "https://your-domain.com", // Replace with your actual domain
+  description: "Portfolio of Nallamothu Bhanu Teja — Full Stack & React Native developer. B.Tech CSE student at KL Deemed to be University (expected Nov 2027). Experience in React.js, React Native, Next.js, AWS, and REST API integration.",
+  author: {
+    name: "Nallamothu Bhanu Teja",
+    headline: "Nallamothu Bhanu Teja — Full Stack & React Native Developer",
+    tagline: "Results-driven Computer Science Engineering student specializing in React.js, React Native, and full-stack development. I build scalable web and mobile apps with a focus on performance and user experience.",
+    about: "Results-driven Computer Science Engineering student with experience in full-stack and mobile development, specializing in React.js, React Native, and REST API integration. Skilled in AWS, Git, and Agile development. Built a News Aggregator App and optimized a Telugu-based Large Language Model (LLM) platform to improve API performance and user experience.",
+    email: "nallamothubhanuteja110@gmail.com",
+    phone: "+91 93924 65787",
+    location: "Khammam, Telangana, India",
+  },
+  links: {
+    github: "https://github.com/Bhanutejanallamothu",
+    linkedin: "https://linkedin.com/in/bhanuteja-nallamothu-4b8677315/",
+    resume: "https://drive.google.com/file/d/15u1EXLrkw7KziG8V8ZkiuH0k27U6M4p2/view?usp=sharing",
+  },
+  education: {
+    university: "KL Deemed to be University, Vijayawada",
+    degree: "B.Tech in Computer Science Engineering",
+    graduationDate: "November 2027",
+  },
+  experience: [
+    {
+      company: "KL Radio",
+      role: "Technical Lead",
+      period: "Aug 2024 – Present",
+      tasks: [
+        "Led a 7-member technical team to design and maintain streaming and server infrastructure.",
+        "Engineered streaming setup and optimized configurations, boosting uptime by 15%.",
+        "Streamlined workflows to reduce downtime and improve audio quality.",
+        "Mentored 20+ members and coordinated with content teams.",
+      ],
+    },
+    {
+      company: "Swecha",
+      role: "Technology Intern",
+      period: "Jun 2025 – Present", // Note: Future date as per prompt
+      tasks: [
+        "Contributed to a Telugu-based LLM to promote regional language technology.",
+        "Executed data preparation, fine-tuning, and evaluation, improving accuracy by 10%.",
+        "Integrated REST APIs and optimized React.js components for scalability.",
+        "Collaborated in an Agile workflow with 6+ developers and researchers.",
+      ],
+    },
+  ],
+  skills: [
+    {
+      category: "Languages",
+      technologies: ["Java", "Python", "C", "JavaScript", "HTML", "CSS", "SQL"],
+    },
+    {
+      category: "Frontend & Mobile",
+      technologies: ["React.js", "React Native", "Next.js", "Tailwind CSS"],
+    },
+    {
+      category: "Databases",
+      technologies: ["MySQL", "MongoDB"],
+    },
+    {
+      category: "Tools & Platforms",
+      technologies: ["Git", "Docker", "AWS", "Vercel"],
+    },
+    {
+        category: "Concepts",
+        technologies: ["OOP", "Data Structures & Algorithms (DSA)", "AIML"],
+    }
+  ],
+  softSkills: ["Team Collaboration", "Communication", "Relationship Building"],
+  projects: [
+    {
+      name: "YBS Industries Landing Page",
+      description: "A consultancy project to build a responsive landing page with Next.js and Tailwind CSS, optimized for performance and accessibility.",
+      tech: ["Next.js", "Tailwind CSS", "Vercel"],
+      links: {
+        live: "https://main-1-ik9v.vercel.app/",
+        repo: "https://github.com/Bhanutejanallamothu/YBS",
+      },
+      image: { id: "ybs-industries" },
+    },
+    {
+      name: "Virtual Intern Pro (Freelance)",
+      description: "Ed-tech platform with secure authentication, responsive design, and modular components.",
+      tech: ["Next.js", "Tailwind CSS", "Auth"],
+      links: {
+        live: "https://studio-tngx.vercel.app/login",
+        repo: "https://github.com/Bhanutejanallamothu/Virtual_Intern_Pro",
+      },
+      image: { id: "virtual-intern-pro" },
+    },
+    {
+      name: "News Aggregator App",
+      description: "A mobile app that improves content discovery by aggregating news from various sources using REST APIs.",
+      tech: ["React Native", "REST API", "Spring Boot"],
+      links: {
+        repo: "https://github.com/Bhanutejanallamothu/cicd-news",
+      },
+      image: { id: "news-aggregator" },
+    },
+  ],
+  certifications: [
+    { name: "AWS Certified Cloud Practitioner" },
+    { name: "Linguaskill (Cambridge English)" },
+    { name: "NPTEL – Design and Analysis of Algorithms" },
+    { name: "SQL – HackerRank" },
+  ],
+};

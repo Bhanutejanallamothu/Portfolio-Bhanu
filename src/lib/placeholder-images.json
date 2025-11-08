@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "headshot",
+      "description": "A professional headshot of Nallamothu Bhanu Teja",
+      "imageUrl": "https://ik.imagekit.io/bhanuteja110/WhatsApp%20Image%202025-09-12%20at%2013.43.09_62291c4c.jpg?updatedAt=1762627213780",
+      "imageHint": "professional headshot"
+    },
+    {
+      "id": "ybs-industries",
+      "description": "Screenshot of the YBS Industries landing page",
+      "imageUrl": "https://ik.imagekit.io/bhanuteja110/unnamed.jpg?updatedAt=1762626770947",
+      "imageHint": "website landing"
+    },
+    {
+      "id": "virtual-intern-pro",
+      "description": "Screenshot of the Virtual Intern Pro platform",
+      "imageUrl": "https://ik.imagekit.io/bhanuteja110/Screenshot%202025-11-09%20000526.png?updatedAt=1762626947758",
+      "imageHint": "dashboard interface"
+    },
+    {
+      "id": "news-aggregator",
+      "description": "Screenshot of the News Aggregator mobile app",
+      "imageUrl": "https://images.unsplash.com/photo-1514575110897-1253ff7b2ccb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtb2JpbGUlMjBhcHB8ZW58MHx8fHwxNzYyNTczMTE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mobile app"
+    }
+  ]
+}
