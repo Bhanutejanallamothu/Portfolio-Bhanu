@@ -10,7 +10,7 @@ import { PlaceHolderImages } from "@/lib/placeholder-images";
 export function Hero() {
   const headshot = PlaceHolderImages.find(p => p.id === "headshot");
   return (
-    <AnimatedSection id="home" className="container min-h-[calc(100vh-4rem)] flex items-center">
+    <AnimatedSection id="home" className="container min-h-[calc(100vh-10rem)] flex items-center">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
         <div className="space-y-6 text-center md:text-left">
           <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none font-headline">
