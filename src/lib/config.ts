@@ -1,7 +1,7 @@
 
 export const siteConfig = {
   name: "Nallamothu Bhanu Teja | Portfolio",
-  url: "https://your-domain.com", // Replace with your actual domain
+  url: "https://portfolio-bhanu-roan.vercel.app/", // Replace with your actual domain
   description: "Portfolio of Nallamothu Bhanu Teja — Full Stack & React Native developer. B.Tech CSE student at KL Deemed to be University (expected Nov 2027). Experience in React.js, React Native, Next.js, AWS, and REST API integration.",
   author: {
     name: "Nallamothu Bhanu Teja",
@@ -15,7 +15,7 @@ export const siteConfig = {
   links: {
     github: "https://github.com/Bhanutejanallamothu",
     linkedin: "https://linkedin.com/in/bhanuteja-nallamothu-4b8677315/",
-    resume: "https://drive.google.com/file/d/15u1EXLrkw7KziG8V8ZkiuH0k27U6M4p2/view?usp=sharing",
+    resume: "https://drive.google.com/file/d/1pLNCmornwr79muBZ5Hy3kQjBIx-Z6F_A/view?usp=sharing",
   },
   education: {
     university: "KL Deemed to be University, Vijayawada",
