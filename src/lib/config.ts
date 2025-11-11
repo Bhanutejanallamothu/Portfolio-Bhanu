@@ -1,11 +1,11 @@
 
 export const siteConfig = {
-  name: "Nallamothu Bhanu Teja | Portfolio",
+  name: "Nallamothu Bhanuteja | Portfolio",
   url: "https://portfolio-bhanu-roan.vercel.app/", // Replace with your actual domain
-  description: "Portfolio of Nallamothu Bhanu Teja — Full Stack & React Native developer. B.Tech CSE student at KL Deemed to be University (expected Nov 2027). Experience in React.js, React Native, Next.js, AWS, and REST API integration.",
+  description: "Portfolio of Nallamothu Bhanuteja — Full Stack & React Native developer. B.Tech CSE student at KL Deemed to be University (expected Nov 2027). Experience in React.js, React Native, Next.js, AWS, and REST API integration.",
   author: {
-    name: "Nallamothu Bhanu Teja",
-    headline: "Nallamothu Bhanu Teja — Full Stack & React Native Developer",
+    name: "Nallamothu Bhanuteja",
+    headline: "Nallamothu Bhanuteja",
     tagline: "Results-driven Computer Science Engineering student specializing in React.js, React Native, and full-stack development. I build scalable web and mobile apps with a focus on performance and user experience.",
     about: "Results-driven Computer Science Engineering student with experience in full-stack and mobile development, specializing in React.js, React Native, and REST API integration. Skilled in AWS, Git, and Agile development. Built a News Aggregator App and optimized a Telugu-based Large Language Model (LLM) platform to improve API performance and user experience.",
     email: "nallamothubhanuteja110@gmail.com",
