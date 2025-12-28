@@ -15,7 +15,7 @@ export const siteConfig = {
   links: {
     github: "https://github.com/Bhanutejanallamothu",
     linkedin: "https://linkedin.com/in/bhanuteja-nallamothu-4b8677315/",
-    resume: "https://drive.google.com/file/d/1pLNCmornwr79muBZ5Hy3kQjBIx-Z6F_A/view?usp=sharing",
+    resume: "https://drive.google.com/file/d/1L5ndnpXQcUesuCwAzKVyk0fxKtM4Yg8r/view?usp=sharing",
   },
   education: {
     university: "KL Deemed to be University, Vijayawada",
@@ -37,7 +37,7 @@ export const siteConfig = {
     {
       company: "Swecha",
       role: "Technology Intern",
-      period: "Jun 2025 – Present", // Note: Future date as per prompt
+      period: "Jun 2025 – September 2025", 
       tasks: [
         "Contributed to a Telugu-based LLM to promote regional language technology.",
         "Executed data preparation, fine-tuning, and evaluation, improving accuracy by 10%.",
