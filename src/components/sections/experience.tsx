@@ -11,13 +11,12 @@ export function Experience() {
         </h2>
         <div className="relative pl-6 after:absolute after:inset-y-0 after:w-px after:bg-muted-foreground/20 after:left-0">
           {siteConfig.experience.map((job, index) => (
-            <div key={job.company} className="grid grid-cols-[80px_1fr] md:grid-cols-[120px_1fr] gap-4 md:gap-10 pb-8">
+            <div key={job.company} className="grid grid-cols-[140px_1fr] gap-4 md:gap-10 pb-8 relative">
+              <div className="absolute -left-2 top-1.5 h-4 w-4 rounded-full bg-primary border-4 border-background" />
               <div className="text-right pt-1">
                 <p className="text-sm font-medium">{job.period}</p>
-                <p className="text-xs text-muted-foreground">{job.company}</p>
               </div>
-              <div className="relative">
-                <div className="absolute -left-[35px] md:-left-[51px] top-1.5 h-4 w-4 rounded-full bg-primary border-4 border-background" />
+              <div>
                 <Card>
                   <CardHeader>
                     <CardTitle>{job.role}</CardTitle>
