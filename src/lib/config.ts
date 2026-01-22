@@ -1,7 +1,7 @@
 
 export const siteConfig = {
-  name: "Nallamothu Bhanuteja | Portfolio",
-  url: "https://portfolio-bhanu-roan.vercel.app/", // Replace with your actual domain
+  name: "Nallamothu Bhanuteja",
+  url: "https://your-domain.com", // Replace with your actual domain
   description: "Portfolio of Nallamothu Bhanuteja — Full Stack & React Native developer. B.Tech CSE student at KL Deemed to be University (expected Nov 2027). Experience in React.js, React Native, Next.js, AWS, and REST API integration.",
   author: {
     name: "Nallamothu Bhanuteja",
@@ -28,16 +28,17 @@ export const siteConfig = {
       role: "Technical Lead",
       period: "Aug 2024 – Present",
       tasks: [
-        "Led a 7-member technical team to design and maintain streaming and server infrastructure.",
-        "Engineered streaming setup and optimized configurations, boosting uptime by 15%.",
-        "Streamlined workflows to reduce downtime and improve audio quality.",
-        "Mentored 20+ members and coordinated with content teams.",
+        "Led a 13-member production and technical team responsible for podcast recording, editing, and live radio show operations.",
+        "Coordinated and managed end-to-end podcast workflows including content planning, audio recording, post-production, and publishing.",
+        "Supervised live show execution, ensuring smooth broadcasting, real-time issue resolution, and consistent audio quality.",
+        "Streamlined production schedules and team coordination, reducing turnaround time for podcast releases.",
+        "Trained team members on audio tools, live-stream handling, and operational best practices",
       ],
     },
     {
       company: "Swecha",
       role: "Technology Intern",
-      period: "Jun 2025 – September 2025", 
+      period: "Jun 2025 – Jul 2025",
       tasks: [
         "Contributed to a Telugu-based LLM to promote regional language technology.",
         "Executed data preparation, fine-tuning, and evaluation, improving accuracy by 10%.",
@@ -57,7 +58,7 @@ export const siteConfig = {
     },
     {
       category: "Databases",
-      technologies: ["MySQL", "MongoDB"],
+      technologies: ["MySQL", "PostgreSQL"],
     },
     {
       category: "Tools & Platforms",
