@@ -2,7 +2,7 @@
 export const siteConfig = {
   name: "Nallamothu Bhanuteja",
   url: "https://your-domain.com", // Replace with your actual domain
-  description: "Portfolio of Nallamothu Bhanuteja — Full Stack & React Native developer. B.Tech CSE student at KL Deemed to be University (expected Nov 2027). Experience in React.js, React Native, Next.js, AWS, and REST API integration.",
+  description: "Portfolio of Nallamothu Bhanuteja, a Full Stack & React Native developer. B.Tech CSE student at KL Deemed to be University (expected Nov 2027). Experience in React.js, React Native, Next.js, AWS, and REST API integration.",
   author: {
     name: "Nallamothu Bhanuteja",
     headline: "Nallamothu Bhanuteja",
@@ -15,7 +15,7 @@ export const siteConfig = {
   links: {
     github: "https://github.com/Bhanutejanallamothu",
     linkedin: "https://linkedin.com/in/bhanuteja-nallamothu-4b8677315/",
-    resume: "https://drive.google.com/file/d/1L5ndnpXQcUesuCwAzKVyk0fxKtM4Yg8r/view?usp=sharing",
+    resume: "https://drive.google.com/file/d/1-uuwQM8kBBcgb5IYXTy5xMArnQ_If_iF/view?usp=sharing",
   },
   education: {
     university: "KL Deemed to be University, Vijayawada",
@@ -72,12 +72,22 @@ export const siteConfig = {
   softSkills: ["Team Collaboration", "Communication", "Relationship Building"],
   projects: [
     {
+      name: "Health– Digital Health Management Platform",
+      description: "Built a web-based digital health platform to securely manage and organize personal health records through a unified interface. Implemented a user-centric, responsive design with scalable backend architecture for future healthcare services. Optimized the application for secure cloud deployment and real-world performance.",
+      tech: ["Next.js", "Full Stack", "Vercel"],
+      links: {
+        live: "https://health-lilac-two.vercel.app",
+        repo: "https://github.com/Bhanutejanallamothu/health",
+      },
+      image: { id: "health-platform" },
+    },
+    {
       name: "YBS Industries Landing Page",
       description: "A consultancy project to build a responsive landing page with Next.js and Tailwind CSS, optimized for performance and accessibility.",
       tech: ["Next.js", "Tailwind CSS", "Vercel"],
       links: {
         live: "https://main-1-ik9v.vercel.app/",
-        repo: "https://github.com/Bhanutejanallamothu/YBS",
+        repo: "https://github.com/Bhanutejanallamothu/YBS.git",
       },
       image: { id: "ybs-industries" },
     },
@@ -87,7 +97,7 @@ export const siteConfig = {
       tech: ["Next.js", "Tailwind CSS", "Auth"],
       links: {
         live: "https://studio-tngx.vercel.app/login",
-        repo: "https://github.com/Bhanutejanallamothu/Virtual_Intern_Pro",
+        repo: "https://github.com/Bhanutejanallamothu/Virtual_Intern_Pro.git",
       },
       image: { id: "virtual-intern-pro" },
     },
@@ -96,7 +106,7 @@ export const siteConfig = {
       description: "A mobile app that improves content discovery by aggregating news from various sources using REST APIs.",
       tech: ["React Native", "REST API", "Spring Boot"],
       links: {
-        repo: "https://github.com/Bhanutejanallamothu/cicd-news",
+        repo: "https://github.com/Bhanutejanallamothu/cicd-news.git",
       },
       image: { id: "news-aggregator" },
     },
