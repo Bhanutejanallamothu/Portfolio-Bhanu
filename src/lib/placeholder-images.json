@@ -7,6 +7,12 @@
       "imageHint": "professional headshot"
     },
     {
+      "id": "health-platform",
+      "description": "Screenshot of the Digital Health Management Platform",
+      "imageUrl": "https://ik.imagekit.io/bhanuteja110/image.png",
+      "imageHint": "health app"
+    },
+    {
       "id": "ybs-industries",
       "description": "Screenshot of the YBS Industries landing page",
       "imageUrl": "https://ik.imagekit.io/bhanuteja110/unnamed.jpg?updatedAt=1762626770947",
